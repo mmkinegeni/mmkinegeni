@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmkinegeni
-- 👀 I’m interested in phyton
+- 👀 I’m interested in app development
 
 <!---
 mmkinegeni/mmkinegeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
